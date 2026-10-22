@@ -172,6 +172,10 @@ section { padding: 72px 0; }
   color: var(--silver-pale);
   font-size: 1.6rem;
   cursor: pointer;
+  min-width: 44px;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
 }
 
 @media (max-width: 880px) {
@@ -189,7 +193,7 @@ section { padding: 72px 0; }
   }
   .main-nav.open { display: flex; }
   .main-nav a { padding: 12px 10px; }
-  .nav-toggle { display: block; }
+  .nav-toggle { display: flex; }
   .nav-cta { margin: 10px 0 0; }
 }
 

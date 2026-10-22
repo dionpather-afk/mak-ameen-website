@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://makameenlaw.co.za/sitemap.xml
