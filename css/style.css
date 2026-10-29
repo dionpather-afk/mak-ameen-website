@@ -284,7 +284,7 @@ section { padding: 72px 0; }
   background:
     radial-gradient(ellipse at 20% 0%, rgba(184,188,196,0.10), transparent 55%),
     linear-gradient(90deg, rgba(11,31,58,0.93) 0%, rgba(11,31,58,0.78) 35%, rgba(11,31,58,0.35) 70%, rgba(11,31,58,0.20) 100%),
-    url('assets/img/home/street-view-office.jpg') center/cover no-repeat;
+    url('../assets/img/home/street-view-office.jpg') center/cover no-repeat;
   color: var(--silver-pale);
   padding: 120px 0 100px;
   position: relative;
